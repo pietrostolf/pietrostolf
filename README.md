@@ -1,5 +1,4 @@
 ![Header](./github-header-image5.png)
-<h3 align="center">A Data Analyst from Canada</h3>
 
 - 🔭 I’m currently working on [The Data Circle](https://www.youtube.com/@TheDataCircle)
 
@@ -8,6 +7,8 @@
 - 📫 How to reach me **pietro.stolf@gmail.com**
 
 - :mag_right: Feel free to explore my repos!
+
+- :earth_americas: Brazilian by birth, Canadian by choice
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
