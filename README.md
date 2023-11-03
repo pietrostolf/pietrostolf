@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Pietro Stolf</h1>
+![Header](./github-header-image.png)
 <h3 align="center">A passionate Data Analyst from Canada</h3>
 
 - 🔭 I’m currently working on [The Data Circle](https://www.youtube.com/@TheDataCircle)
