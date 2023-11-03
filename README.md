@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pietro Stolf</h1>
-<h3 align="center">A passionate Data Analyst from Brazil</h3>
+<h3 align="center">A passionate Data Analyst from Canada</h3>
 
 - 🔭 I’m currently working on [The Data Circle](https://www.youtube.com/@TheDataCircle)
 
