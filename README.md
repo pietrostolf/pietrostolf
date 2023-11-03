@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **pietro.stolf@gmail.com**
 
-- :mag_right: Thanks for visiting! Feel free to explore my repos!
+- :mag_right: Feel free to explore my repos!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
