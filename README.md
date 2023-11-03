@@ -1,4 +1,4 @@
-![Header](./github-header-image.png)
+![Header](./github-header-image2.png)
 <h3 align="center">A passionate Data Analyst from Canada</h3>
 
 - 🔭 I’m currently working on [The Data Circle](https://www.youtube.com/@TheDataCircle)
