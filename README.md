@@ -5,10 +5,12 @@
 - 💬 Ask me about **Web Scraping**
 
 - 📫 How to reach me **pietro.stolf@gmail.com**
+  
+- :earth_americas: Brazilian by birth, Canadian by choice
 
 - :mag_right: Feel free to explore my repos!
 
-- :earth_americas: Brazilian by birth, Canadian by choice
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
