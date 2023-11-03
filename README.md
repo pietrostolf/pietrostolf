@@ -10,6 +10,8 @@
   
 - :earth_americas: Brazilian by birth, Canadian by choice
 
+- :round_pushpin: Based in Toronto, On
+
 - :mag_right: Feel free to explore my repos!
 
 <h3 align="left">Connect with me:</h3>
