@@ -10,6 +10,7 @@
 
 - :mag_right: Feel free to explore my repos!
 
+<iframe src="https://giphy.com/embed/LaVp0AyqR5bGsC5Cbm" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/pudgypenguins-lie-dev-data-doesnt-LaVp0AyqR5bGsC5Cbm">via GIPHY</a></p>
 
 
 <h3 align="left">Connect with me:</h3>
