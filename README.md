@@ -12,7 +12,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.youtube.com/c/the data circle" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="the data circle" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/Pietro-Stolf/">
+<a href="https://www.linkedin.com/in/pietrostolf/">
     <img align="left" alt="Pietro's Linkedin" width="40px" 
   src="https://img.icons8.com/fluency/48/linkedin.png" />
   </a>
