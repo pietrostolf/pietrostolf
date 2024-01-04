@@ -10,7 +10,7 @@
   
 - :earth_americas: Brazilian by birth, Canadian by choice
 
-- :round_pushpin: Based in Toronto, On
+- :round_pushpin: Based in Toronto, ON
 
 - :mag_right: Feel free to explore my repos!
 
