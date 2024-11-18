@@ -4,13 +4,13 @@
 
 - 🔭 I’m currently working on [The Data Circle](https://www.youtube.com/@TheDataCircle)
 
-- 💬 Ask me about **Web Scraping**
+- 💬 Ask me about **Data Analytics**
 
 - 📫 How to reach me **pietro.stolf@gmail.com**
   
 - :earth_americas: Brazilian by birth, Canadian by choice
 
-- :round_pushpin: Based in Toronto, ON
+- :round_pushpin: Based in Borås, Sweden
 
 - :mag_right: Feel free to explore my repos!
 
