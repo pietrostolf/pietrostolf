@@ -10,7 +10,7 @@
   
 - :earth_americas: Brazilian by birth, Canadian by choice
 
-- :round_pushpin: Based in Borås, Sweden
+- :round_pushpin: Based in Sweden
 
 - :mag_right: Feel free to explore my repos!
 
