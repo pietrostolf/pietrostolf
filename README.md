@@ -7,8 +7,6 @@
 - 💬 Ask me about **Data Analytics**
 
 - 📫 How to reach me **pietro.stolf@gmail.com**
-  
-- :earth_americas: Brazilian by birth, Canadian by choice
 
 - :round_pushpin: Based in Sweden
 
